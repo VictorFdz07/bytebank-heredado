@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31e3534c-4cd1-4af5-bef6-cffe5f208321" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bytebank-heredado.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlBonificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CuentaAhorros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CuentaCorriente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestControlBonificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestCuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestFuncionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestGerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestReferencias.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2R4kvs4FKTpiSKgp2UPmSFrBaIk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31e3534c-4cd1-4af5-bef6-cffe5f208321" name="Changes" comment="" />
+      <created>1686516976778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686516976778</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
