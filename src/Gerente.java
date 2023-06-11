@@ -17,6 +17,6 @@ public class Gerente extends Funcionario {
 	
 	//Sibre-escritura de metodo
 	public double getBonificacion() {
-		return super.getSalario() + super.getBonificacion();
+		return super.getSalario() + this.getSalario()*0.05;
 	}
 }
