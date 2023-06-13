@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31e3534c-4cd1-4af5-bef6-cffe5f208321" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Administrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Autenticable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AutenticacionUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculadoraDeImpuesto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeguroDeVida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SistemaInterno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestSistemaInterno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestTributacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tributacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SaldoInsuficienteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestCuentaExceptionSaldo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cuenta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CuentaCorriente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CuentaCorriente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestReferencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestReferencias.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +46,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USUARIO\Documents\Documentos\JAVA\bytebank-heredado\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
