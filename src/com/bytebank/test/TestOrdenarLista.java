@@ -75,6 +75,15 @@ public class TestOrdenarLista {
             System.out.println(cuenta);
         }
 
+        // Invertir una lista
+        Collections.reverse(lista);
+
+        // Mezclar lista
+        Collections.shuffle(lista);
+
+        // Rotar una lista
+        Collections.rotate(lista, 5); //rotar 5 posiciones
+
     }
 }
 class OrdenadorPorNumeroCuenta implements Comparator<Cuenta>{
