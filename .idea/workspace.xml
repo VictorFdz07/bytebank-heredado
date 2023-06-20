@@ -10,16 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31e3534c-4cd1-4af5-bef6-cffe5f208321" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/GuardaCuentas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/GuardaReferencias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestArregloReferencias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestGuardaCuentas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestGuardaReferencias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestOrdenarLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestRepasoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestWrappers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bytebank/modelo/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/Cuenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bytebank/test/TestArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
